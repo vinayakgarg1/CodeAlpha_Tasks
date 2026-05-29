@@ -1,8 +1,8 @@
 # CodeAlpha C++ Programming Internship Tasks
 
-[cite_start]Welcome to my official repository for the CodeAlpha C++ Programming Internship[cite: 1, 2]. [cite_start]This program focuses on developing hands-on practical expertise across core C++ development concepts, algorithmic structures, object-oriented systems, and data persistence[cite: 3, 5, 6]. 
+Welcome to my official repository for the CodeAlpha C++ Programming Internship.This program focuses on developing hands-on practical expertise across core C++ development concepts, algorithmic structures, object-oriented systems, and data persistence. 
 
-[cite_start]This repository serves as a centralized hub housing all completed software tasks developed during the internship period[cite: 16, 20].
+This repository serves as a centralized hub housing all completed software tasks developed during the internship period.
 
 ---
 
